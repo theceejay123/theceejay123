@@ -35,6 +35,17 @@
 <br />
 <br />
 
+### 📕 Favorite Blog Posts
+- [My favourite resources being a freelancer as a side hustle 💎](https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml)
+- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [10 ways to speed up your programming workflows in Unity with Visual Studio 2019](https://blogs.unity3d.com/2020/07/14/10-ways-to-speed-up-your-programming-workflows-in-unity-with-visual-studio-2019/)
+- [Setting up a SRV Record](https://www.mcmiddleearth.com/community/wiki/setting-up-a-srv-record/)
+
+---
+
+<img align="left" alt="theceejay123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theceeay123&show_icons=true&hide_border=true&theme=onedark" />
+
 [website]: https://janealpimentel.com
 [weather]: https://weather.janealpimentel.com
 [github]: https://github.com/theceejay123
