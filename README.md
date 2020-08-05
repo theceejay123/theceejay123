@@ -44,7 +44,7 @@
 
 ---
 
-<img align="left" alt="theceejay123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theceeay123&show_icons=true&hide_border=true&theme=onedark" />
+<img align="left" alt="theceejay123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=theceejay123&show_icons=true&hide_border=true&theme=onedark" />
 
 [website]: https://janealpimentel.com
 [weather]: https://weather.janealpimentel.com
