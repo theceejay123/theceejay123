@@ -32,6 +32,12 @@
 
 <br />
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.theceejay123.vercel.app/api/spotify)](https://open.spotify.com/user/the_ceejay123)
+
+<br />
+
 ### Languages and Tools!
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="C #" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
