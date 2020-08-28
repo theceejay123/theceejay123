@@ -55,8 +55,8 @@
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
+<br />
 
 ### 📕 Favorite Blog Posts
 - [My favourite resources being a freelancer as a side hustle 💎](https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml)
