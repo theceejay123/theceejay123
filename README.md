@@ -1,4 +1,20 @@
-### Hello! I'm Ceejay - aka [janealpimentel][website] 👋🏽
+<h1 align='center'>
+  Hello! I'm Ceejay 👋🏽
+</h1>
+
+<p align='center'>
+<!--   <a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
+  </a>&nbsp;&nbsp; -->
+  <a href="https://www.linkedin.com/in/janealpimentel/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/theceejay123">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+---
 
 ## I'm a Web Developer, and a Game Developer Hobbyist!
 - ℹ️ Currently working on a weather web-based app using react! [link][weather]
@@ -33,8 +49,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+---
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 ### 📕 Favorite Blog Posts
 - [My favourite resources being a freelancer as a side hustle 💎](https://dev.to/leomjaques/my-fav-resources-being-a-freelancer-as-a-side-hustle-15ml)
