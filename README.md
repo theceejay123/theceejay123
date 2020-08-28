@@ -50,5 +50,5 @@
 [weather]: https://weather.janealpimentel.com
 [github]: https://github.com/theceejay123
 [twitter]: https://twitter.com/doodlerprizz
-[linkedin]: https://www.linkedin.com/in/janeal-pimentel-b19836179/
+[linkedin]: https://www.linkedin.com/in/janealpimentel/
 [instagram]: https://www.instagram.com/the_ceejay123/
