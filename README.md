@@ -17,7 +17,7 @@
 ---
 
 ## I'm a Web Developer, and a Game Developer Hobbyist!
-- ℹ️ Currently working on a budget tracker using angular! [link][weather]
+- ℹ️ Currently working on a budget tracker using angular! [link][budget]
 - 🎮 Trying to learn Unity to make awesome indie games!
 - 🔮 Goals: Contribute more on Open Source indie games and titles!
 - ⚡ Cool Fact: I play lots and lots of video games + I also love photography 📷
