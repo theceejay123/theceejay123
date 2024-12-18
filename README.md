@@ -11,7 +11,7 @@
 
 ### Favorite Things
 
-- [The XNA Content Pipeline Is Bad and You Shouldn't Use It](hhttps://flibitijibibo.com/xnacontent.html)
+- [The XNA Content Pipeline Is Bad and You Shouldn't Use It](https://flibitijibibo.com/xnacontent.html)
 - [XNA :x: FNA :heavy_check_mark: ](https://fna-xna.github.io/)
 - [Setting up a SRV Record](https://www.mcmiddleearth.com/community/wiki/setting-up-a-srv-record/)
 - [A Beginner’s Guide To Travel Hacking](https://zerototravel.com/beginners-guide-travel-hacking/)
