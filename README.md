@@ -1,6 +1,6 @@
 # Yo! It's Ceejay
 
----
+It has been a while. I've been working on things and now I am back doing other things.
 
 ## I work on stuff and play games on stuff
 
@@ -20,8 +20,6 @@
 ## Wanna listen with me?
 
 [![Spotify](https://novatorem-rgsz4lul5-janeal-pimentels-projects.vercel.app/api/spotify)](https://open.spotify.com/user/theceejay123)
-
----
 
 ### Help is on the way
 
